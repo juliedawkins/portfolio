@@ -20,10 +20,10 @@ Research Report
 GitHub Repo
 
 ### Work from Home and the Gendered Housework Imbalance
-![Research Report](/assets/Dawkins_Capstone.pdf)
+-[Research Report](/assets/Dawkins_Capstone.pdf)
 
 ### How Government Private School Subsidies Incentivize Private School and Student Behavior
-![Research Report](/assets/Dawkins_Final_Thesis.pdf)
+-[Research Report](/assets/Dawkins_Final_Thesis.pdf)
 
 ## Work Experience
 
