@@ -16,14 +16,14 @@ Interactive Jupyter Notebook
 GitHub Repo
 
 ### Student Populations and Housing Demand
-Research Report
+-[Research Report](/projects/HousingProject.pdf)
 GitHub Repo
 
 ### Work from Home and the Gendered Housework Imbalance
--[Research Report](/assets/Dawkins_Capstone.pdf)
+-[Research Report](/projects/GenderGap.pdf)
 
 ### How Government Private School Subsidies Incentivize Private School and Student Behavior
--[Research Report](/assets/Dawkins_Final_Thesis.pdf)
+-[Research Report](/projects/SchoolSubsidies.pdf)
 
 ## Work Experience
 
