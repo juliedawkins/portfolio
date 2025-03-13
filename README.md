@@ -8,12 +8,11 @@
 - [Research Report](/projects/AIProject.pdf)
 - [GitHub Repo](https://github.com/juliedawkins/ai-stock-portfolio)
 
-Developed a porfolio allocation tool for individuals interested in investment using dynamic personal preferences including risk appetite, return preference, and desire to support sustainable companies. Used a constraint satisfaction framework to determine optimal stock allocation. 
+With three team members, designed and implemented a portfolio allocation tool tailored for retail investors, leveraging dynamic personal preferences such as risk tolerance, return objectives, and sustainability considerations. Utilized a constraint satisfaction framework to optimize stock allocation, ensuring alignment with investor-specific financial goals. The research was accompanied by an interactive Google Colab implementation, providing a hands-on tool for users to explore and customize their investment strategies.
 
 ### The Impact of COVID-19 on Demand for Public Transit, Retail, and Grocery Stores
-HTML Report
-Interactive Jupyter Notebook
-GitHub Repo
+- [Interactive HTML Report](/projects/CovidTransportation.html)
+- [GitHub Repo](https://github.com/juliedawkins/covid-transportation-mobility/)
 
 ### Student Populations and Housing Demand
 - [Research Report](/projects/HousingProject.pdf)
