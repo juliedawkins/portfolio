@@ -12,25 +12,30 @@
 ### AI-Driven Portfolio Optimization Using Constraint Satisfaction
 - [Research Report](/projects/AIProject.pdf)
 - [GitHub Repo](https://github.com/juliedawkins/ai-stock-portfolio)
+
 With three team members, designed and implemented a portfolio allocation tool tailored for retail investors, leveraging dynamic personal preferences such as risk tolerance, return objectives, and sustainability considerations. Utilized a constraint satisfaction framework to optimize stock allocation, ensuring alignment with investor-specific financial goals. The research was accompanied by an interactive Google Colab implementation, providing a hands-on tool for users to explore and customize their investment strategies.
 
 ### Analyzing COVID-19’s Impact on Mobility and Consumer Behavior Using Big Data
 - [Interactive HTML Report](/projects/CovidTransportation.html)
 - [GitHub Repo](https://github.com/juliedawkins/covid-transportation-mobility/)
+
 With two team members, developed an interactive analysis of the impact of COVID-19 on public transit, retail, and grocery store demand using large-scale mobility data. Extracted and processed datasets from Google BigQuery, integrating public transportation and economic indicators. Leveraged geographic visualizations and time-series analysis to identify trends and disruptions in mobility patterns. The project includes an interactive HTML report that allows users to explore data-driven insights dynamically.
 
 ### The Effect of University Student Populations on Housing Markets: A Panel Data Approach
 - [Research Report](/projects/HousingProject.pdf)
 - [GitHub Repo](https://github.com/juliedawkins/5253_FinalProject)
+
 This econometric study evaluates the impact of university student populations on median rental prices across U.S. counties from 2018 to 2022. Using pooled OLS and fixed-effects regression models, the analysis reveals that while counties with large student populations experience higher rents, additional increases in student population do not significantly drive further rent growth. This research has direct applications for real estate investment, urban planning, and housing policy, providing insights for developers and municipalities managing housing affordability in college towns.
 
 ### The Impact of Work from Home on Gendered Household Labor: Behavioral Shifts in Remote Work, Post-2020
 - [Research Report](/projects/GenderGap.pdf)
-This study leverages time-use survey data to analyze how the rise of remote and hybrid work reshaped gendered divisions of unpaid household labor in heterosexual dual-income households. Using statistical analysis, including T-tests, the research finds that while men increased their share of household labor post-pandemic, significant gender disparities persist in couples with children. However, in couples without children, differences in household labor decrease significantly, indicating increased equity. These insights contribute to ongoing discussions on workforce flexibility and gender equity, with potential applications in workforce analytics, HR policy development, and behavioral economics for understanding the future of work.
+
+Leveraged time-use survey data to analyze how the rise of remote and hybrid work reshaped gendered divisions of unpaid household labor in heterosexual dual-income households. Using statistical analysis, including T-tests, the research finds that while men increased their share of household labor post-pandemic, significant gender disparities persist in couples with children. However, in couples without children, differences in household labor decrease significantly, indicating increased equity. These insights contribute to ongoing discussions on workforce flexibility and gender equity, with potential applications in workforce analytics, HR policy development, and behavioral economics for understanding the future of work.
 
 ### Private School Choice Policies and Their Financial Impact: Analyzing Revenue and Enrollment Trends
 - [Research Report](/projects/SchoolSubsidies.pdf)
-This study examines the financial effects of private school choice programs—vouchers, tax credits, and deductions—on private school revenues and student enrollment, following the methodology of Hungerman and Rinz (2016). By analyzing tax return data and private school enrollment trends from 2000-2018 using fixed-effects regression, the research finds that tax credit scholarships successfully drive student enrollment increases, while unrestricted tax deductions are associated with, surprisingly, *lower* private school revenues. These findings inform ongoing debates on the fiscal sustainability of school choice policies and have implications for policymakers, educational institutions, and financial planning teams assessing the long-term economic viability of private education subsidies.
+
+Examines the financial effects of private school choice programs—vouchers, tax credits, and deductions—on private school revenues and student enrollment, following the methodology of Hungerman and Rinz (2016). By analyzing tax return data and private school enrollment trends from 2000-2018 using fixed-effects regression, the research finds that tax credit scholarships successfully drive student enrollment increases, while unrestricted tax deductions are associated with, surprisingly, *lower* private school revenues. These findings inform ongoing debates on the fiscal sustainability of school choice policies and have implications for policymakers, educational institutions, and financial planning teams assessing the long-term economic viability of private education subsidies.
 
 ## Work Experience
 ### Labor Strategy Intern @ Southwest Airlines *(May 2023 - August 2023)*
