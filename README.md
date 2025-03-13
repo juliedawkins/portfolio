@@ -16,7 +16,7 @@
 With three team members, designed and implemented a portfolio allocation tool tailored for retail investors, leveraging dynamic personal preferences such as risk tolerance, return objectives, and sustainability considerations. Utilized a constraint satisfaction framework to optimize stock allocation, ensuring alignment with investor-specific financial goals. The research was accompanied by an interactive Google Colab implementation, providing a hands-on tool for users to explore and customize their investment strategies.
 
 ### Analyzing COVID-19’s Impact on Mobility and Consumer Behavior Using Big Data
-![Transportation Study](/assets/station_changes.jpeg)
+![Transportation Study](/assets/station_screenshot.jpeg)
 - [Interactive HTML Report](/projects/CovidTransportation.html)
 - [GitHub Repo](https://github.com/juliedawkins/covid-transportation-mobility/)
 
