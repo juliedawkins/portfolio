@@ -10,6 +10,7 @@
 
 ## Projects
 ### AI-Driven Portfolio Optimization Using Constraint Satisfaction
+![AI Porfolio Optimizer](/assets/ai_portfolio.jpeg)
 - [Research Report](/projects/AIProject.pdf)
 - [GitHub Repo](https://github.com/juliedawkins/ai-stock-portfolio)
 
