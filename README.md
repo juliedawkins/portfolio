@@ -46,7 +46,7 @@ Examines the financial effects of private school choice programs—vouchers, tax
 * Presented data-driven analytics and actionable insights to senior leadership within the Department of Labor
 * Analyzed industry labor contracts to assist in production of 50+-page contract comparison document (comparing pay, benefits, and work rules at 8 airlines) that serves as a reference document for negotiating team
 
-### Team Lead, Consulant @ The Oklahoma Group *(January 2021 - May 2024)*
+### Team Lead, Consultant @ The Oklahoma Group *(January 2021 - May 2024)*
 * Supervised 2 teams of 4 novice consultants to provide professional-level, pro bono management consulting services to one national and one state-level nonprofit
 * Developed 9 presentations summarizing findings and recommendations to clients for high-impact results, demonstrating strong communication and storytelling abilities
 * Researched and developed guidelines to increase board and staff efficacy and organization longevity of a local healthcare nonprofit, including the creation of a succession plan to ensure longevity of the nonprofit
