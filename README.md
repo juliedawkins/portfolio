@@ -2,7 +2,7 @@
 #### Technical Skills: Python, R, Machine Learning, Statistical Analysis, Causal Inference
 
 ## Education
-London School of Economics
+The London School of Economics and Political Science
 - *MSc in Applied Social Data Science*
 
 The University of Oklahoma
