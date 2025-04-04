@@ -6,8 +6,8 @@ London School of Economics
 *MSc in Applied Social Data Science*
 
 The University of Oklahoma
-*MA in Managerial Economics with a Big Data Emphasis*
-*BA in Economics and Letters*
+- *MA in Managerial Economics with a Big Data Emphasis*
+- *BA in Economics and Letters*
   - Letters: Interdiscplinary Degree in History, Literature, Philosophy, a Modern and an Ancient Language
 
 
