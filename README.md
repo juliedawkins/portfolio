@@ -1,6 +1,16 @@
 # Data Science
 #### Technical Skills: Python, R, Machine Learning, Statistical Analysis, Causal Inference
 
+## Education
+London School of Economics
+*MSc in Applied Social Data Science*
+
+The University of Oklahoma
+*MA in Managerial Economics with a Big Data Emphasis*
+*BA in Economics and Letters*
+  - Letters: Interdiscplinary Degree in History, Literature, Philosophy, a Modern and an Ancient Language
+
+
 ## Projects
 ### Analyzing COVID-19’s Impact on Mobility and Consumer Behavior Using Big Data
 ![Transportation Study](/assets/station_screenshot.jpeg)
