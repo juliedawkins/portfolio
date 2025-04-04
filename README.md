@@ -1,25 +1,6 @@
 # Data Science
 #### Technical Skills: Python, R, Machine Learning, Statistical Analysis, Causal Inference
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="assets/logo.png" width="100%" />
-      <br>
-      <a href="https://github.com/juliedawkins/portfolio">View the Project on GitHub</a>
-    </td>
-    <td width="70%">
-      <h2>Education</h2>
-      <ul>
-        <li><b>MSc, Applied Social Data Science</b>, LSE (2025)<br>
-          <i>Coursework: ML, Deep Learning, AI, Viz</i></li>
-        <li><b>MA, Managerial Economics</b>, University of Oklahoma (2024)</li>
-        <li><b>BA, Economics & Letters</b>, University of Oklahoma (2024)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ## Projects
 ### Analyzing COVID-19’s Impact on Mobility and Consumer Behavior Using Big Data
 ![Transportation Study](/assets/station_screenshot.jpeg)
