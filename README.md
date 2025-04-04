@@ -3,7 +3,7 @@
 
 ## Education
 London School of Economics
-*MSc in Applied Social Data Science*
+- *MSc in Applied Social Data Science*
 
 The University of Oklahoma
 - *MA in Managerial Economics with a Big Data Emphasis*
